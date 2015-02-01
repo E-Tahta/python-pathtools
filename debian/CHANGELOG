@@ -1,0 +1,344 @@
+commit 06d2c7d6c82c8c6fbd66e3202d7e4d1caa07d2ca
+Merge: 72e4c9f 5b6183d
+Author: Yesudeep Mangalapilly <gora.khargosh@gmail.com>
+Date:   Mon Oct 3 22:06:10 2011 -0700
+
+    Merge pull request #2 from kreichgauer/patch-2
+    
+    setup.py: replace setuptools with distutils
+
+commit 5b6183d9e808782dd0827270e0489083d289762a
+Author: Martin Kreichgauer <martin@kreichgauer.com>
+Date:   Thu Sep 29 14:48:54 2011 +0300
+
+    setup.py: replace setuptools with distutils
+
+commit 72e4c9f9c061c6ca3f9a0b77a57d4796e79dae39
+Author: Gora Khargosh <gora.khargosh@gmail.com>
+Date:   Thu Aug 25 14:56:30 2011 +0530
+
+    Adds Martin Kreichgauer to authors list.
+    
+    Signed-off-by: Gora Khargosh <gora.khargosh@gmail.com>
+
+commit ce8a22499534fb151944013c002b6d5030fe0287
+Merge: 052c558 7d4b04d
+Author: Yesudeep Mangalapilly <gora.khargosh@gmail.com>
+Date:   Thu Aug 25 02:12:02 2011 -0700
+
+    Merge pull request #1 from kreichgauer/patch-1
+    
+    Changed calls to os.walk for 2.6 compatibility.
+
+commit 7d4b04dd939f4916721776c908254492ce1ae7e2
+Author: Martin Kreichgauer <kreichgauer@gmail.com>
+Date:   Fri Jul 8 20:30:45 2011 +0200
+
+    fixed syntax error
+
+commit 64641b48dd2eed56122854890cf05d48afbb0fc1
+Author: Martin Kreichgauer <martin@kreichgauer.com>
+Date:   Fri Jul 8 07:20:31 2011 -0700
+
+    Changed calls to os.walk for 2.6 compatibility.
+
+commit 052c558fcab291adb5ebde8b4bc09ab45f855ad3
+Author: Yesudeep Mangalapilly <yesudeep@gmail.com>
+Date:   Thu Feb 17 20:14:07 2011 +0530
+
+    Updates email address
+    
+    Signed-off-by: Yesudeep Mangalapilly <yesudeep@gmail.com>
+
+commit a4ce41f42dd2424c450be5c44a10dd250fad5469
+Author: Yesudeep Mangalapilly <gora.khargosh@gmail.com>
+Date:   Thu Feb 17 16:06:00 2011 +0530
+
+    Updates project with my name
+    
+    Signed-off-by: Yesudeep Mangalapilly <gora.khargosh@gmail.com>
+
+commit be6220eebc0cf87170e681ad0f248f6a2d0a8c9b
+Author: Gora Khargosh <gora.khargosh@gmail.com>
+Date:   Sun Jan 2 14:28:45 2011 +0530
+
+    Adds Makefile and bumps version to 0.1.1
+    
+    Signed-off-by: Gora Khargosh <gora.khargosh@gmail.com>
+
+commit 0074d1e933b6287b8dc295de42221f0979a8f0c2
+Author: Gora Khargosh <gora.khargosh@gmail.com>
+Date:   Sun Jan 2 14:27:10 2011 +0530
+
+    ADds a match_any_paths function
+    
+    Signed-off-by: Gora Khargosh <gora.khargosh@gmail.com>
+
+commit 7e27abe17bc57cdc985503c25c8ef6af7382c980
+Author: Gora Khargosh <gora.khargosh@gmail.com>
+Date:   Fri Dec 31 14:38:13 2010 +0530
+
+    Bump version to 0.1.0
+    
+    Signed-off-by: Gora Khargosh <gora.khargosh@gmail.com>
+
+commit f9f8c019d1fb97e20a8fd1b18e158744c8d0b7e4
+Author: Gora Khargosh <gora.khargosh@gmail.com>
+Date:   Fri Dec 31 13:49:18 2010 +0530
+
+    We want to use distribute
+    
+    Signed-off-by: Gora Khargosh <gora.khargosh@gmail.com>
+
+commit 1344e176293888b0db4615499e708626dd2fa288
+Author: Gora Khargosh <gora.khargosh@gmail.com>
+Date:   Fri Dec 31 13:46:00 2010 +0530
+
+    Moves bootstrap.py to scripts/ directory
+    
+    Signed-off-by: Gora Khargosh <gora.khargosh@gmail.com>
+
+commit 08dc9797c903596b8efac83bcb8fbc77c2c2eb6b
+Author: Gora Khargosh <gora.khargosh@gmail.com>
+Date:   Fri Dec 31 13:42:50 2010 +0530
+
+    Add a symlink to pacify github
+    
+    Signed-off-by: Gora Khargosh <gora.khargosh@gmail.com>
+
+commit ee18d2981a4adf51ac47697670b3a53421451356
+Author: Gora Khargosh <gora.khargosh@gmail.com>
+Date:   Fri Dec 31 13:41:54 2010 +0530
+
+    Removes unnecessary documentation from index.rst
+    
+    Signed-off-by: Gora Khargosh <gora.khargosh@gmail.com>
+
+commit 127e7864bf376ef422d0289583367fa049fe4880
+Author: Gora Khargosh <gora.khargosh@gmail.com>
+Date:   Fri Dec 31 13:41:39 2010 +0530
+
+    Updates MANIFEST.in to include only docs source
+    
+    Signed-off-by: Gora Khargosh <gora.khargosh@gmail.com>
+
+commit ded057fe1a247db83be5a319b8e5e3a144e9098b
+Author: Gora Khargosh <gora.khargosh@gmail.com>
+Date:   Fri Dec 31 13:37:43 2010 +0530
+
+    Adds documentation corrections in path.py
+    
+    Signed-off-by: Gora Khargosh <gora.khargosh@gmail.com>
+
+commit 0c2ca65c485b1a1365f09fbf846068effded4d3e
+Author: Gora Khargosh <gora.khargosh@gmail.com>
+Date:   Fri Dec 31 13:36:01 2010 +0530
+
+    Adds documentation to doc index
+    
+    Signed-off-by: Gora Khargosh <gora.khargosh@gmail.com>
+
+commit bd54dd2f212b5e323a324f632ace6ceb7cd7402b
+Author: Gora Khargosh <gora.khargosh@gmail.com>
+Date:   Fri Dec 31 13:35:45 2010 +0530
+
+    Add empty api.rst file
+    
+    Signed-off-by: Gora Khargosh <gora.khargosh@gmail.com>
+
+commit c05b18873afe53f49dee620ea34f49657e20b478
+Author: Gora Khargosh <gora.khargosh@gmail.com>
+Date:   Fri Dec 31 13:18:37 2010 +0530
+
+    Add global includes for documentation
+    
+    Signed-off-by: Gora Khargosh <gora.khargosh@gmail.com>
+
+commit 43882f08e500ec4bd8f7d21cdc9fbd8c89dcf155
+Author: Gora Khargosh <gora.khargosh@gmail.com>
+Date:   Fri Dec 31 13:18:24 2010 +0530
+
+    Add flask theme for documentation
+    
+    Signed-off-by: Gora Khargosh <gora.khargosh@gmail.com>
+
+commit e148dc1cbc1de27decfa8af6989f9ae545f50108
+Author: Gora Khargosh <gora.khargosh@gmail.com>
+Date:   Fri Dec 31 13:14:48 2010 +0530
+
+    Adds docs to sdist
+    
+    * Adds documentation to the source distribution.
+    * Adds a sphinx-pypi-upload command to setup.py.
+    
+    Signed-off-by: Gora Khargosh <gora.khargosh@gmail.com>
+
+commit 3f14701da6f04cf97c7953e5c206a3ed99155270
+Author: Gora Khargosh <gora.khargosh@gmail.com>
+Date:   Fri Dec 31 13:09:43 2010 +0530
+
+    Updates documentation in path.py
+    
+    Signed-off-by: Gora Khargosh <gora.khargosh@gmail.com>
+
+commit 7e210ed27e00c802e76a006bbdd2990693cd0159
+Author: Gora Khargosh <gora.khargosh@gmail.com>
+Date:   Thu Dec 30 13:40:19 2010 +0530
+
+    Adds documentation for undocumented functions
+    
+    Signed-off-by: Gora Khargosh <gora.khargosh@gmail.com>
+
+commit 679e9c926bb85f1828914097356bf7216be50d6c
+Author: Gora Khargosh <gora.khargosh@gmail.com>
+Date:   Thu Dec 30 13:22:00 2010 +0530
+
+    Adds doctests and covers 100% of patterns.py
+    
+    Signed-off-by: Gora Khargosh <gora.khargosh@gmail.com>
+
+commit 5af78d26b608965dab558a04c7e7415d270a8931
+Author: Gora Khargosh <gora.khargosh@gmail.com>
+Date:   Wed Dec 29 21:21:34 2010 +0530
+
+    Clean up autobuild.sh script
+    
+    Signed-off-by: Gora Khargosh <gora.khargosh@gmail.com>
+
+commit 9841ab37f49ad9e87ef305705c3074d44a3ac58e
+Author: Gora Khargosh <gora.khargosh@gmail.com>
+Date:   Wed Dec 29 20:38:48 2010 +0530
+
+    Move autobuild.sh into scripts
+    
+    Signed-off-by: Gora Khargosh <gora.khargosh@gmail.com>
+
+commit f8928f8759c3eb29dee47c28c8cb362d70c3f3e8
+Author: Gora Khargosh <gora.khargosh@gmail.com>
+Date:   Wed Dec 29 20:37:43 2010 +0530
+
+    Adds testing framework
+    
+    * Adds nosy.py
+    * Adds nose.cfg nose configuration
+    * Adds run_tests.py test runner
+    * Adds autobuild.sh docs/tests autobuild script
+    
+    Signed-off-by: Gora Khargosh <gora.khargosh@gmail.com>
+
+commit cb55ce6314183fb30002e4cd0d4b3077bd7d80e2
+Author: Gora Khargosh <gora.khargosh@gmail.com>
+Date:   Wed Dec 29 20:32:12 2010 +0530
+
+    Update ignore rules
+    
+    Signed-off-by: Gora Khargosh <gora.khargosh@gmail.com>
+
+commit 3548c3f94bcf3febfdec6ae9ced1045ac748c48d
+Author: Gora Khargosh <gora.khargosh@gmail.com>
+Date:   Wed Dec 29 17:37:14 2010 +0530
+
+    Adds test to check exception in _match function
+    
+    * All doctests pass.
+    * Adds a _string_lower internal method to replace
+      string.lower, because the string module has been
+      deprecated or removed in higher Python versions.
+    
+    Signed-off-by: Gora Khargosh <gora.khargosh@gmail.com>
+
+commit 0de444bf73dc04ee63b57181355895840d72649b
+Author: Gora Khargosh <gora.khargosh@gmail.com>
+Date:   Wed Dec 29 15:54:57 2010 +0530
+
+    Update ignore rules to exclude idea configuration
+    
+    Signed-off-by: Gora Khargosh <gora.khargosh@gmail.com>
+
+commit 026f7a4e7e4963104f48fb5dc9c3fa94b2310ec6
+Author: Gora Khargosh <gora.khargosh@gmail.com>
+Date:   Wed Dec 29 15:54:32 2010 +0530
+
+    Adds Sphinx documentation configuration
+    
+    Signed-off-by: Gora Khargosh <gora.khargosh@gmail.com>
+
+commit 3d00aa3a5d7504810db1df798b09713bbf3e84ee
+Author: Gora Khargosh <gora.khargosh@gmail.com>
+Date:   Wed Dec 29 15:54:10 2010 +0530
+
+    Updates documentation in path.py
+    
+    Signed-off-by: Gora Khargosh <gora.khargosh@gmail.com>
+
+commit 2e13c58dc08ea7b249330e502852e363e89abe84
+Author: Gora Khargosh <gora.khargosh@gmail.com>
+Date:   Wed Dec 29 15:53:46 2010 +0530
+
+    Adds doctests for patterns.py
+    
+    Signed-off-by: Gora Khargosh <gora.khargosh@gmail.com>
+
+commit 75c3fe619e6eb8ae84b836664d1fb3f7cc347d69
+Author: Gora Khargosh <gora.khargosh@gmail.com>
+Date:   Wed Dec 29 15:52:46 2010 +0530
+
+    Adds basic buildout configuration
+    
+    Signed-off-by: Gora Khargosh <gora.khargosh@gmail.com>
+
+commit a7ba424cf6b95263098bf03ae1363e1c45636efb
+Author: Gora Khargosh <gora.khargosh@gmail.com>
+Date:   Wed Dec 29 11:29:54 2010 +0530
+
+    Removes depth as function argument
+    
+    Signed-off-by: Gora Khargosh <gora.khargosh@gmail.com>
+
+commit f4df776a0c1337bc45b866821796847b811e49d9
+Author: Gora Khargosh <gora.khargosh@gmail.com>
+Date:   Wed Dec 29 11:05:02 2010 +0530
+
+    Renames the match_patterns function to match_against
+    
+    Signed-off-by: Gora Khargosh <gora.khargosh@gmail.com>
+
+commit 20061dd40db72ce4ac1c31b7dfbb3eacf6f89f23
+Author: Gora Khargosh <gora.khargosh@gmail.com>
+Date:   Wed Dec 29 10:46:06 2010 +0530
+
+    Adds patterns module
+    
+    Signed-off-by: Gora Khargosh <gora.khargosh@gmail.com>
+
+commit 98e44777ab49b20c3f615eebf879b0192b2f2760
+Author: Gora Khargosh <gora.khargosh@gmail.com>
+Date:   Wed Dec 29 10:45:55 2010 +0530
+
+    Adds path module
+    
+    Signed-off-by: Gora Khargosh <gora.khargosh@gmail.com>
+
+commit 9e3f74a528a18fef926db8c0b75891fdc4680fa4
+Author: Gora Khargosh <gora.khargosh@gmail.com>
+Date:   Wed Dec 29 10:45:37 2010 +0530
+
+    Adds version module
+    
+    Signed-off-by: Gora Khargosh <gora.khargosh@gmail.com>
+
+commit 1b5a3eedbb7475ec16ff533c2982c2311257710c
+Author: Gora Khargosh <gora.khargosh@gmail.com>
+Date:   Wed Dec 29 10:45:22 2010 +0530
+
+    Adds basic package
+    
+    Signed-off-by: Gora Khargosh <gora.khargosh@gmail.com>
+
+commit 6bb3f42759e777bd642e5c70a411b53d7dc7fc47
+Author: Gora Khargosh <gora.khargosh@gmail.com>
+Date:   Wed Dec 29 10:44:31 2010 +0530
+
+    Initial commit
+    
+    Signed-off-by: Gora Khargosh <gora.khargosh@gmail.com>

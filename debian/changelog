@@ -1,0 +1,13 @@
+python-pathtools (0.1.2-2) unstable; urgency=medium
+
+  * Enable build for python3.
+  * Updated standards version. No changes.
+  * Added dependency on dh-python.
+
+ -- gustavo panizzo <gfa@zumbi.com.ar>  Mon, 02 Feb 2015 00:43:01 +0800
+
+python-pathtools (0.1.2-1) unstable; urgency=low
+
+  * Initial release. (Closes: #735482)
+
+ -- gustavo panizzo <gfa@zumbi.com.ar>  Fri, 17 Jan 2014 15:17:56 -0300
